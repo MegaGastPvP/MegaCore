@@ -1,0 +1,22 @@
+Raiding
+                    $this->Eff(p, INVISIBILITY, 60, 1, false);
+                    $this->Eff($p, SPEED, 60, 2, false);
+                    $this->Eff($p, STRENGTH, 60, 3, false);
+                    $this->Eff($p, JUMP, 60, 2, false);
+                    $p->getInventory()->setItemInHand(Item::get(0, 0, 1));
+                    PVP
+                    $this->Eff($p, SPEED, 60, 3, false);
+                    $this->Eff($p, STRENGTH, 60, 3, false);
+                    $this->Eff($p, JUMP, 60, 3, false);
+                    $p->getInventory()->setItemInHand(Item::get(0, 0, 1));
+                    Kingdoms potion
+                    $this->Eff(p, INVISIBILITY, 60, 1, false);
+                    $this->Eff($p, SPEED, 60, 2, false);
+                    $this->Eff($p, STRENGTH, 60, 3, false);
+                    $this->Eff($p, JUMP, 60, 2, false);
+                    $this->Eff($p, SPEED, 60, 3, false);
+                    $this->Eff($p, STRENGTH, 60, 3, false);
+                    $this->Eff($p, JUMP, 60, 3, false);
+                    $p->getInventory()->setItemInHand(Item::get(0, 0, 1));
+                    
+                    
